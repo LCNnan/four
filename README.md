@@ -5,5 +5,6 @@ Creating a new branch is quick and simple.
 
 waiting .........
 
-commit not push 
+commit not push.
+ 
 
